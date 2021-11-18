@@ -5,10 +5,9 @@
 body {
     box-sizing: border-box;
     font-weight: 100;
-
 }
 html {
-    background-size: cover;
+    background-size: cover !important;
     background: url("https://mir-s3-cdn-cf.behance.net/project_modules/fs/9afe0493484903.5e66500f8dea4.gif") no-repeat center;
 }
 html, body {
@@ -20,4 +19,6 @@ html, body {
 #root {
     height: 100%;
     width: 100%;
+    background-size: cover !important;
+    background: url("https://mir-s3-cdn-cf.behance.net/project_modules/fs/9afe0493484903.5e66500f8dea4.gif") no-repeat center;
 }
