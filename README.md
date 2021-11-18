@@ -1,4 +1,5 @@
 # landing-react by quietw. (iamquietw)
+# Remake of landing-refactor with React.JS framework
 
 Setup:
   - Download sources
