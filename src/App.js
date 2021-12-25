@@ -60,7 +60,7 @@ class App extends React.Component {
                         </div>
                     </div>
                 </div>
-                <div className="links"><a href="https://github.com/iamquietw">
+                <div className="links"><a href="https://github.com/itqw">
                     <div>GitHub</div>
                 </a> | <a href="https://vk.com/yumi_team">
                     <div>Yumi</div>
@@ -68,7 +68,7 @@ class App extends React.Component {
                     <div>SenkoMC</div>
                 </a> | <a href="https://vk.com/neurodev">
                     <div>Neuro</div>
-                </a> | <a href="https://vk.com/iamquietw">
+                </a> | <a href="https://vk.com/iqwws">
                     <div>VK</div>
                 </a></div>
             </div>
